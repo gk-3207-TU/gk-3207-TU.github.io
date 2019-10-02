@@ -1,7 +1,11 @@
 ## Welcome to GitHub Pages
 
-![GitHub Logo](/images/logo.png)
-
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+   
 You can use the [editor on GitHub](https://github.com/gk-3207-TU/gk-3207-TU.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
